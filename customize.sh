@@ -9,7 +9,7 @@ sleep 0.5
 ui_print " in Termux/Material Terminal. For more info, execute"
 sleep 0.5
 ui_print " 𝐬𝐮 -𝐜 𝐦𝐥𝐮𝐧𝐥𝐨𝐜𝐤𝐞𝐫 or 𝐬𝐮 first then 𝐦𝐥𝐮𝐧𝐥𝐨𝐜𝐤𝐞𝐫 ."
-sleep 10
+sleep 10 mo
 
 # Unzip files
 ui_print "- Unzipping files..."
